@@ -1,0 +1,394 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Rocke the babie Joane, or, Iohn his petition to his louing wife Ioane, t to suckle the babe that was none of her owne to the tune of Vnder and ouer.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1632</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A73077</idno>
+            <idno type="STC">STC 21138.5</idno>
+            <idno type="STC">ESTC S5270</idno>
+            <idno type="EEBO-CITATION">39960747</idno>
+            <idno type="OCLC">ocm 39960747</idno>
+            <idno type="VID">150428</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A73077)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150428)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1951:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Rocke the babie Joane, or, Iohn his petition to his louing wife Ioane, t to suckle the babe that was none of her owne to the tune of Vnder and ouer.</title>
+               </titleStmt>
+               <extent>2 leaves : ill.  </extent>
+               <publicationStmt>
+                  <publisher>for H.G.,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>[ca. 1632]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from STC (2nd ed.)</note>
+                  <note>Contains two woodcut illus.</note>
+                  <note>STC (2nd ed.) 21551.3 printed on verso.</note>
+                  <note>Right half sheet contains: The second part. To the same tune.</note>
+                  <note>Imperfect: stained, print show-through from ballad on verso.</note>
+                  <note>Reproduction of original in: Pepys' Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:150428:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 6 -->
+            <head>Rocke the Babie <hi>Joane:</hi>
+            </head>
+            <head type="sub">OR,
+<l>
+                  <hi>Iohn</hi> his Petition to his louing Wife <hi>Ioane,</hi>
+               </l>
+               <l>To ſuckle the Babe that was none of her owne.</l>
+            </head>
+            <opener>To the Tune of, <hi>
+                  <g ref="char:V">Ʋ</g>nder and ouer.</hi>
+            </opener>
+            <div n="1" type="part">
+               <p>
+                  <figure>
+                     <sp>
+                        <p>O Ione</p>
+                     </sp>
+                  </figure>
+               </p>
+               <lg>
+                  <l>A Young man in our Pariſh,</l>
+                  <l>His wife was ſomewhat curriſh.</l>
+                  <l>For ſhe refuſ'd to nouriſh</l>
+                  <l>a child which he brought home:</l>
+                  <l>He got it on an other,</l>
+                  <l>And death had tane the mother,</l>
+                  <l>The truth he could not ſmother,</l>
+                  <l>all out at laſt did come:</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Suckle the Baby,</hi>
+                     </l>
+                     <l>
+                        <hi>huggle the Baby,</hi>
+                     </l>
+                     <l>
+                        <hi>Rocke the Baby Ione.</hi>
+                     </l>
+                     <l>
+                        <hi>I ſcorne to ſuckle the Baby,</hi>
+                     </l>
+                     <l>
+                        <hi>Vnleſſe it were mine owne.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>His wife cry'd out on one day,</l>
+                  <l>I thinke it was on Sunday,</l>
+                  <l>The next day being Munday,</l>
+                  <l>his Wench in ſunder fell:</l>
+                  <l>The Dad on't ſhée deſcryed,</l>
+                  <l>Which hauing done, ſhée dyed,</l>
+                  <l>This could not be denyed,</l>
+                  <l>alas he knew't too well.</l>
+                  <lg type="refrain">
+                     <l>Suckle the Baby, &amp;c.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>The Pariſh him inforced</l>
+                  <l>To ſee the Infant nurſed,</l>
+                  <l>He being but lightly purſed,</l>
+                  <l>deſir'd to ſaue that charge:</l>
+                  <l>He brought it to his owne wife,</l>
+                  <l>Whom he lou'd as his owne life:</l>
+                  <l>To her the caſe was knowne rife,</l>
+                  <l>he told her all at large.</l>
+                  <lg type="refrain">
+                     <l>Suckle the Baby, &amp;c.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Quoth he my <hi>Ione</hi> my déereſt,</l>
+                  <l>Thy loue to mee is néereſt,</l>
+                  <l>Thy vertue will ſhine cleareſt,</l>
+                  <l>in doing this good deed:</l>
+                  <l>This Infant young is left heere,</l>
+                  <l>Vnable to make ſhift heere,</l>
+                  <l>Twill be of life bereft heere,</l>
+                  <l>vnleſſe thou doe it feed.</l>
+                  <lg type="refrain">
+                     <l>Suckle the Baby, &amp;c.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Away thou falſe Deceiuer,</l>
+                  <l>Quoth ſhee farewell for euer,</l>
+                  <l>I am reſolued neuer</l>
+                  <l>To loue thee as I did:</l>
+                  <l>Alas quoth hee my honny,</l>
+                  <l>I would not for any money,</l>
+                  <l>By thee my ſweeteſt conny,</l>
+                  <l>to be ſo ſhrewdly chid.</l>
+                  <lg type="refrain">
+                     <l>Suckle the Baby, &amp;c.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Although I lou'd his mother,</l>
+                  <l>Ile vow to loue none other,</l>
+                  <l>What needſt thou keepe this pother,</l>
+                  <l>ſince ſhee (poore wretch) is dead:</l>
+                  <l>No more ſhe can thee trouble,</l>
+                  <l>And 'twould be charges double,</l>
+                  <l>If euery moneth a Noble</l>
+                  <l>I pay for milke and bread.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Suckle the Baby,</hi>
+                     </l>
+                     <l>
+                        <hi>Huggle the Baby,</hi>
+                     </l>
+                     <l>
+                        <hi>Rocke the Babie Ione.</hi>
+                     </l>
+                     <l>
+                        <hi>I ſcorne to ſuckle the Baby,</hi>
+                     </l>
+                     <l>
+                        <hi>Vnleſſe it were mine owne.</hi>
+                     </l>
+                  </lg>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <pb facs="tcp:150428:1"/>
+               <!-- PDF PAGE 6 -->
+               <head>The ſecond part.</head>
+               <opener>To the ſame tune.</opener>
+               <p>
+                  <figure>
+                     <sp>
+                        <l>To thee I make my mone,</l>
+                        <l>O rocke the cradle Ione.</l>
+                     </sp>
+                     <sp>
+                        <l>So I may haue my will,</l>
+                        <l>Ile loue thy Baby ſtill.</l>
+                     </sp>
+                  </figure>
+               </p>
+               <lg>
+                  <l>T<gap reason="illegible" extent="2+ letters">
+                        <desc>••…</desc>
+                     </gap> ſould be to my diſcredit,</l>
+                  <l>Should I both board and bed it,</l>
+                  <l>For neuer woman did it</l>
+                  <l>to a Baſtard in this kind.</l>
+                  <l>O <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> leaue off this faſhion,</l>
+                  <l>Twill be thy commendation</l>
+                  <l>To take commiſeration,</l>
+                  <l>let not the child be pind.</l>
+                  <lg type="refrain">
+                     <l>Suckle the Baby, &amp;c.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>What if the brat be ſtarued?</l>
+                  <l>Experience hath obſerued</l>
+                  <l>It ſhould not bee preſerued</l>
+                  <l>by her that is thy wife.</l>
+                  <l>Thy patience will appeare more,</l>
+                  <l>O take it Iuggie therefore.</l>
+                  <l>Beare with my fault, for wherefore</l>
+                  <l>ſhould we continue ſtrife?</l>
+                  <lg type="refrain">
+                     <l>Suckle the Baby, &amp;c.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>I doubt I ſhall be forced,</l>
+                  <l>From thee to bee diuorced,</l>
+                  <l>Thy brood ſhall nere be nurſed,</l>
+                  <l>by me nor by my coſt.</l>
+                  <l>O wife be not ſo cruell,</l>
+                  <l>Thou knowſt thou art my Iewell,</l>
+                  <l>Be certaine if thou doe well,</l>
+                  <l>thy labour is not loſt.</l>
+                  <lg type="refrain">
+                     <l>Suckle the Baby, &amp;c.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>My neighbours will deride me,</l>
+                  <l>And none that dwell beſide me</l>
+                  <l>Will euermore abide me</l>
+                  <l>for ſuch a Preſident.</l>
+                  <l>No <hi>Ione</hi> thou art miſtaken,</l>
+                  <l>Twill other wiues awaken,</l>
+                  <l>Then let ſome courſe be taken</l>
+                  <l>for the childs nouriſhment.</l>
+                  <lg type="refrain">
+                     <l>Suckle the Baby, &amp;c.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Let patient <hi>Griſſels</hi> ſtorie,</l>
+                  <l>Be ſtill in thy memorie,</l>
+                  <l>Who wonne a laſting glory,</l>
+                  <l>through patience in like ſort:</l>
+                  <l>Although it touch thee neerely,</l>
+                  <l>This Barne that lookes ſo cheerely,</l>
+                  <l>Shall binde me ſtill more deerely,</l>
+                  <l>to loue thee better for't.</l>
+                  <lg type="refrain">
+                     <l>Suckle the Baby, &amp;c.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Well <hi>Iohn</hi> thy interceſſion</l>
+                  <l>Hath chang'd my diſpoſition,</l>
+                  <l>And now vpon condition</l>
+                  <l>thou'lt goe no more aſtray:</l>
+                  <l>Ile entertaine thy Baby,</l>
+                  <l>And loue it as well as may be.</l>
+                  <l>Doe ſo (ſweet Iugge) I pray thee,</l>
+                  <l>then this is a ioyfull day.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Suckle the Baby,</hi>
+                     </l>
+                     <l>
+                        <hi>Huggle the Baby,</hi>
+                     </l>
+                     <l>
+                        <hi>Rocke the Baby Ione:</hi>
+                     </l>
+                     <l>
+                        <hi>I prethee Iugge loue my Baby,</hi>
+                     </l>
+                     <l>
+                        <hi>And count it to be thine owne.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>I haue a Girle, I bore it</l>
+                  <l>But iuſt a day before it,</l>
+                  <l>Although we be but poore yet,</l>
+                  <l>theſe two we will maintaine:</l>
+                  <l>Ile ſuckle it, and dandle it,</l>
+                  <l>And very choycely handle it,</l>
+                  <l>And thou ſhalt ſope and candle get:</l>
+                  <l>and thus betweene vs twaine,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Weele ſuckle the Baby,</hi>
+                     </l>
+                     <l>
+                        <hi>And huggle the Baby.</hi>
+                     </l>
+                     <l>
+                        <hi>Gramercy honeſt Ione.</hi>
+                     </l>
+                     <l>
+                        <hi>O Iohn Ile rocke thy Baby,</hi>
+                     </l>
+                     <l>
+                        <hi>As well as 'twere mine owne.</hi>
+                     </l>
+                  </lg>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at London for <hi>H. G.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
